@@ -1,0 +1,58 @@
+body{
+  background-image: url('file:///C:/Users/Utente/Desktop/boolean/Coding%20challenge/sfondo.jpg');
+  width: auto;
+}
+.LogoH1{
+text-align: center;
+color: LIME;
+font-size: 30px;
+}
+.Logo{
+  width: 450px;
+}
+.Button{
+  text-align: center;
+  background: LIME;
+  height: 50px;
+  text-align: center; /* orizzontale */
+  line-height: 50px; /* verticale */
+}
+.text{
+  color: white;
+  font-size: 20px;
+}
+.Gino22{
+  color: white;
+  font-size: 30px;
+
+}
+.Mike24{
+  color: white;
+  font-size: 30px;
+
+}
+.Fede154{
+  color: white;
+  font-size: 30px;
+}
+.Square.Gold{
+  height: 50px;
+  width: 600px;
+  border: 1px;
+  margin: 1px;
+  background: gold;
+}
+.Square.Green{
+  height: 50px;
+  width: 800px;
+  border: 1px;
+  margin: 1px;
+  background: Green;
+}
+.Square.Red{
+  height: 50px;
+  width: 300px;
+  border: 1px;
+  margin: 1px;
+  background: red;
+}
